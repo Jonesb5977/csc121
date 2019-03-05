@@ -1,0 +1,5 @@
+sports    5878soccerball          9891998
+auto      1545carmat              1564995
+gracery   1584bread               1991254
+electronic1549camera              5418996
+clothes   8456jogger              1581554

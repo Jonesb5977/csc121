@@ -1,0 +1,10 @@
+brandonjones        salaried  825108250
+johndoe             salaried  999999989901
+johnsmith           salaried  111
+samsmith            salaried  456151232611
+samduncan           salaried  15462132466
+hambone             hourly    578934196826
+john alex           hourly    54691582035
+jtsmith             hourly    15322132172
+urisjons            hourly    310589276345
+raybullard          hourly    56481584720
